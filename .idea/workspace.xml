@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14b6e7ea-8c99-478f-affd-466e3b03b61a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
     </list>
     <ignored path="Test.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="14b6e7ea-8c99-478f-affd-466e3b03b61a" time="1369139335140" ignored="false" />
-    <file path="/Gemfile" changelist="14b6e7ea-8c99-478f-affd-466e3b03b61a" time="1369144573734" ignored="false" />
+    <file path="/Gemfile" changelist="14b6e7ea-8c99-478f-affd-466e3b03b61a" time="1369144909218" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
